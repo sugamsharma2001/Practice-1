@@ -1,2 +1,3 @@
 # Practice-1
-First GIt Repository
+First Git Repository
+Author SUGAM
